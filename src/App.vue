@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-qwww
+123
   </div>
 </template>
 
