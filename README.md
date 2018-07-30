@@ -1,6 +1,6 @@
 # 牛逼的项目
 
-> A Vue.js project
+> 多用命令
 
 ## Build Setup
 
